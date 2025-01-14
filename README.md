@@ -40,7 +40,5 @@
 - [✅] 曲线滑动-三次贝塞尔曲线
 - [✅] UI界面-任务配置,添加删除
 ![image.png](https://s2.loli.net/2023/06/03/7EzBDcJHvWTASQt.png)
-![image.png](https://s2.loli.net/2023/06/03/rHQ8Fj24WobEvct.png)
-![image.png](https://s2.loli.net/2023/06/03/Lj7ihG6t2qCnPuw.png)
 
-组织：177102907
+## 组织：177102907
