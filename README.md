@@ -33,14 +33,14 @@
 |自定义配置|✅|
 |循环任务|✅|
 |全局日志|✅|
-## 脚本特性
-- [✅] 找图-支持判断颜色是否为正确颜色，集成点击图片操作
-- [✅] 随机点击-正态分布 
-- [✅] 曲线滑动-三次贝塞尔曲线
-- [✅] UI界面-任务配置,添加删除
+
 ![image](https://github.com/user-attachments/assets/7776ba34-951e-462e-911c-9a7881163061)
 
+
+
 ![image](https://github.com/user-attachments/assets/0a7ebd48-7684-4b15-9947-b0b4b8a16509)
+
+
 
 ![image](https://github.com/user-attachments/assets/00e000e9-56ab-499d-aa25-5f3772367aa2)
 
