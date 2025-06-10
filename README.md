@@ -26,8 +26,8 @@
 | 契灵 |✅|
 
 |其他功能|支持情况|
-|自动接勾协|
-|[pushplus](https://www.pushplus.plus/)推送异常
+|自动接勾协✅|
+|[pushplus](https://www.pushplus.plus/)推送异常✅
 |自定义配置|✅|
 |循环任务|✅|
 |循环次数|✅|
